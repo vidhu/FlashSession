@@ -38,4 +38,4 @@ This is particularly useful when you want to display temporary data across pages
         echo $error;
     }
     
-#This code is licence under the MIT Licence
+####This code is licence under the MIT Licence
